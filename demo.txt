@@ -1,2 +1,3 @@
 Demo
-第一个测试
+第一个测试public static void main(){
+}
